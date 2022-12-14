@@ -1,5 +1,5 @@
-const url = "YOURDEPLOYURL" // TODO: replace this
-const studentName = "YOURNAME" // TODO: replace this
-const studentId = "YOURSTUDENTID" // TODO: replace this
+const url = "YOURDEPLOYURL";
+const studentName = "Rafli Bima Pratandra";
+const studentId = "FE2957510";
 
-export { url, studentName, studentId }
+export { url, studentName, studentId };
